@@ -11,3 +11,4 @@ Actual behavior: After a few seconds, the lines are re-added to the project.
 This doesn't repro in a standard .NET Core project, only a Web one. Note the presence of `TypeScriptCompileBlocked` property which is expected to disable TypeScript compilation for this project.
 
 Video: https://gfycat.com/ThunderousYoungHake
+(after deleting the entries, there are no additional keyboard or mouse inputs that cause the items to be re-added)
